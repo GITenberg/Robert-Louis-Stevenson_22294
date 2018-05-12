@@ -1,0 +1,35 @@
+_repo: Robert-Louis-Stevenson_22294
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22294-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Black, Margaret Moyes
+    birthdate: 1853
+    deathdate: 1935
+    gutenberg_agent_id: '25240'
+    url: http://www.gutenberg.org/2009/agents/25240
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Moyes_Black
+description: In so small a volume it would be somewhat hopeless to attempt an exhaustive
+  notice of R.L. Stevenson, nor would it be desirable. This little book is only a
+  reminiscence and an appreciation by one who, in the old days between 1869 and 1880,
+  knew him and his home circle well. My earlier and later knowledge has been derived
+  from his mother and those other members of his mother's family with whom it was
+  a pleasure to talk of him, and to exchange news of his sayings and doings.
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2007-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 23
+subjects:
+- !lcc 'PR'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894'
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+title: Robert Louis Stevenson
+url: http://www.gutenberg.org/ebooks/22294
